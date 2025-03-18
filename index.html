@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The best revision website ever!">
+  <link rel="shortcut icon" id="favi" href="">
   <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
   <!-- Google tag (gtag.js) yay :D -->
 
@@ -31,7 +32,6 @@
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-KW15Q1QG97');
-
     function LoadData() {
       var TitleData = localStorage.getItem("Title");
       var FaviData = localStorage.getItem("Favi");
@@ -60,21 +60,19 @@
         if (event.metaKey) keys.push('Meta');
         keys.push(event.key);
         input = keys.join('+');
-        const urls = [
-          "https://senecalearning.com/",
-          "https://www.sparxmaths.com",
-          "https://www.tassomai.com"
-        ]
+        const urls = {
+            "Seneca - Learn 2x Faster": "https://senecalearning.com/",
+            "Sparx Maths - Home": "https://www.sparxmaths.com",
+            "Tassomai": "https://www.tassomai.com",
+            "MathsWatch": "https://www.mathswatch.com",
+        };
         if (input == localStorage.getItem("panickey")) {
-          if (localStorage.getItem("Title") == "Seneca - Learn 2x Faster") {
-            window.location.href = urls[0];
-          } if (localStorage.getItem("Title") == "Sparx Maths - Home") {
-            window.location.href = urls[1];
-          } if (localStorage.getItem("Title") == "Tassomai") {
-            window.location.href = urls[2];
-          } if (localStorage.getItem("Title") == "JustStudy") {
-            const randomIndex = Math.floor(Math.random() * 3);
-            window.location.href = urls[randomIndex];
+          const currentTitle = localStorage.getItem("Title");
+          if (urls[currentTitle]) {
+              window.location.href = urls[currentTitle];
+          } else if (currentTitle === "JustStudy") {
+              const obj_urls = Object.values(urls);
+              window.location.href = obj_urls[Math.floor(Math.random() * obj_urls.length)];
           }
         }
       }
@@ -409,6 +407,7 @@ margin: 1.5rem 0;
   </div> -->
 
   <script>
+    
     document.addEventListener("DOMContentLoaded", function () {
       async function randomquote() {
         const response = await fetch('./assets/data/quotes.json');
@@ -433,7 +432,6 @@ margin: 1.5rem 0;
 
       let totalResources = 0;
       let loadedResources = 0;
-
       function updateLoader() {
         let percent = Math.round((loadedResources / totalResources) * 100);
         loaderBar.style.width = percent + "%";
@@ -501,8 +499,6 @@ margin: 1.5rem 0;
       countResources();
       trackResourceLoading();
     });
-
-
   </script>
   <div id="main-site">
     <div class="toast-container position-fixed  text-white bottom-0 end-0 p-3">
@@ -577,9 +573,14 @@ margin: 1.5rem 0;
                   onclick="TabCloak('Sparx Maths - Home', 'assets/img/TabCloak/Sparx.png', 'Sparx Maths ')">Sparx</a>
               </li>
               <li>
-                <hr class="dropdown-divider""></li>
+                <hr class="dropdown-divider"></li>
                   <li><a class=" dropdown-item"
                   onclick="TabCloak('Tassomai', 'assets/img/TabCloak/Tassomai.ico' , 'Tassomai')">Tassomai</a>
+              </li>
+              <li>
+                <hr class="dropdown-divider"></li>
+                  <li><a class=" dropdown-item"
+                  onclick="TabCloak('MathsWatch', 'assets/img/TabCloak/Mathswatch.png' , 'MathsWatch')">MathsWatch</a>
               </li>
             </ul>
           </div>
@@ -688,6 +689,14 @@ margin: 1.5rem 0;
     <div class="page-desc" id="desc"></div>
 
     <script>
+      function TabCloak(selectedValue, faviconUrl, name) {
+        document.getElementById("SettingDropdown").innerHTML = "TabCloaker - " + name;
+        console.warn("TAB CLOAK: "+ selectedValue);
+        document.title = selectedValue;
+        localStorage.setItem("Title", selectedValue);
+        localStorage.setItem("Favi", faviconUrl);
+        document.querySelector("link[rel='shortcut icon']").href = faviconUrl;
+      }
       function handleSearch() {
         const searchTerm = document.getElementById("search-bar").value.toLowerCase();
         const gridItems = document.querySelectorAll(".griditem");

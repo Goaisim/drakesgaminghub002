@@ -20,6 +20,14 @@ function LoadData() {
 };
 
 let key_input_data = "";
+
+const urls = {
+    "Seneca - Learn 2x Faster": "https://senecalearning.com/",
+    "Sparx Maths - Home": "https://www.sparxmaths.com",
+    "Tassomai": "https://www.tassomai.com",
+    "MathsWatch": "https://www.mathswatch.com",
+};
+
 document.addEventListener('keydown', function (event) {
     key_input_data = "";
     const keys = new Set();
@@ -30,44 +38,31 @@ document.addEventListener('keydown', function (event) {
     if (event.metaKey) keys.add('Meta');
     keys.add(event.key);
     key_input_data = Array.from(keys).join('+');
-
-    const urls = [
-        "https://senecalearning.com/",
-        "https://www.sparxmaths.com",
-        "https://www.tassomai.com"
-    ];
-
-    if (key_input_data == localStorage.getItem("panickey")) {
-        if (localStorage.getItem("Title") == "Seneca - Learn 2x Faster") {
-            window.location.href = urls[0];
-        } else if (localStorage.getItem("Title") == "Sparx Maths - Home") {
-            window.location.href = urls[1];
-        } else if (localStorage.getItem("Title") == "Tassomai") {
-            window.location.href = urls[2];
-        } else if (localStorage.getItem("Title") == "JustStudy") {
-            window.location.href = urls[Math.floor(Math.random() * 3)];
+    
+    if (key_input_data === localStorage.getItem("panickey")) {
+        const currentTitle = localStorage.getItem("Title");
+        console.log("Redirecting to " + currentTitle);
+        if (urls[currentTitle]) {
+            window.location.href = urls[currentTitle];
+        } else if (currentTitle === "JustStudy") {
+            const obj_urls = Object.values(urls);
+            window.location.href = obj_urls[Math.floor(Math.random() * obj_urls.length)];
         }
     }
+    
 
 });
 window.addEventListener("blur", () => {
+    console.log("here")
     if (key_input_data == "Alt" && localStorage.getItem("redirect") === 'true') {
-        const urls = [
-            "https://senecalearning.com/",
-            "https://www.sparxmaths.com",
-            "https://www.tassomai.com"
-        ];
-        if (localStorage.getItem("Title") == "Seneca - Learn 2x Faster") {
-            console.log("redirecting")
-            window.location.href = urls[0];
-        } else if (localStorage.getItem("Title") == "Sparx Maths - Home") {
-            window.location.href = urls[1];
-        } else if (localStorage.getItem("Title") == "Tassomai") {
-            window.location.href = urls[2];
-        } else if (localStorage.getItem("Title") == "JustStudy") {
-            console.log("redirecting")
-            window.location.href = urls[Math.floor(Math.random() * 3)];
-        }
+            const currentTitle = localStorage.getItem("Title");
+            console.log("Redirecting to " + currentTitle);    
+            if (urls[currentTitle]) {
+                window.location.href = urls[currentTitle];
+            } else if (currentTitle === "JustStudy") {
+                const obj_urls = Object.values(urls);
+                window.location.href = obj_urls[Math.floor(Math.random() * obj_urls.length)];
+            }
     }
 })
 

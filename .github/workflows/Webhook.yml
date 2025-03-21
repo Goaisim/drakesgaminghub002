@@ -16,6 +16,6 @@ jobs:
           node-version: '16'
       - name: Send Discord Webhook
         env:
-          DISCORD_WEBHOOK: 'https://l.webhook.party/hook/mmKwAxyAqVOgZ7uo%2BuNVdP1uIszqz%2FULHbRSpKG4nsSwwFfduRgwF2GRAw3ddjrnw7J95%2FMvW8XuQLQg4grEFBxs%2FPf10kbVTmaZ81bxHdp%2FQaByNj6xxWtAG269kA%2BdA3YZqtw2KW%2Fht189AJmU1sbZDmOX0BkcFIMLZEZYqnQM9jAq%2FGPwKzEuAkK7o9AK3688mjA2oSVUG84qo97Mzhl9FKF4x19wjq8quw0b95s7wjaYb6TANCNlCEhHaLGdqeLNCUCWjgwxAbHr7tQ1gOBUlh%2BpMhqU0BxvjDjAVJjGL5PaCnfYdsVlao3g4j6%2Bp99W%2F%2Bnp4cydznn1e0psL6kcT11HMXMYCCPIL%2BA%2Bpywvxxi43PrPq2LqEH444d0xKKfYW1y9Phk%3D/olnBBxGbNS58v5Pk'
+          DISCORD_WEBHOOK: 'https://l.webhook.party/hook/HM2kDFQM7%2Bujf8YMzZ%2F8eonj3%2FVff4RVr72pnjasfgYUn3ZoNXK54gg1NpEzV0JiZRvmTceMptPJgqVngnIGAW65953wUe6L5DpsIPjrPe3KwTdA6yy8VQc7gVCjXRjr58pdMnYKMYcOkAGByMvtJ%2Bz5XTMm1vUS9NIfQUf1l5YDRX8qiu7nd2go9xTDySmc%2BqDvmemy8nPzZJZHeoJw2UGww9WbSR8PWnMHs9khiq8cHqCBW%2BMukuYf9BO6wjz1U3dl1fhTJQOwbempj%2FX8uYiqZjd2s4Pf%2FIpwT8wRbEa8ktEeMYEh2%2BcbemYbgdL%2FFh1jAiWLSLtc1PqRW3h2LyQM1fkbbbWMtlaCkvJULxJlzCzo6BmoNbinfi%2Fo93sbG9gfdVfeB70%3D/XKkSO6MJT3BXtpiH'
           GITHUB_EVENT_PATH: ${{ github.event_path }}
         run: node .github/scripts/discordNotify.js

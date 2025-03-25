@@ -212,7 +212,7 @@
     {
         "name": "Geometry Dash",
         "img": "assets/icons/67.png",
-        "url": "studyguide/gd/index.html",
+        "url": "https://geometrydash-lite.io",
         "desc": "Jump and dash through challenging rhythm-based levels.",
         "category": "Gym Class"
     },
@@ -1347,6 +1347,293 @@
         "name": "Suika Game 3d",
         "img": "https://img.itch.zone/aW1nLzE0MzQwMDk4LnBuZw==/original/2pVYwR.png",
         "url": "https://html-classic.itch.zone/html/9515794/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Pogo 3d",
+        "img": "https://img.itch.zone/aW1nLzExNjg4MjM4LnBuZw==/original/eNr%2Fhb.png",
+        "url": "https://html-classic.itch.zone/html/8826133-885819/index.html/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Suika Game",
+        "img": "https://www.giantbomb.com/a/uploads/original/16/164924/3510009-3039071656-89345.jpg",
+        "url": "https://app-263978.games.s3.yandex.net/263978/3gezsb8o2t8blyohm4fammu5ju7y24fb/index.html?sdk=%2Fsdk%2F_%2Fv2.5d0a6692686e5444a44f.js#origin=https%3A%2F%2Fyandex.com&app-id=263978&device-type=desktop",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Shell Shockers",
+        "img": "https://rocketgames.imgix.net/uploads/games/s/shell-shockers/shell-shockers.jpg",
+        "url": "https://orcatech2711.github.io/nano/games/shellshockers/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Minecraft",
+        "img": "https://www.pluggedin.com/wp-content/uploads/2020/01/minecraft-review-image-1024x587.jpg",
+        "url": "https://eaglercraft.com/mc/1.12.2-wasm/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Bananarama",
+        "img": "https://freepng.pictures/get-logo.php?id=16287",
+        "url": "https://idev.games/game/bananarama",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Super Auto Pets",
+        "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1714040/capsule_616x353.jpg?t=1680944541",
+        "url": "https://html-classic.itch.zone/html/12710809/Production%20WebGL/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Happy Room",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550010/capsule_616x353.jpg?t=1647542460",
+        "url": "https://unblockedgames76.gitlab.io/happy-room/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Catstrophe Crow!",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9wQz39jcBAKliSi7gGqtJkgBGjLLWuCkBuA&s",
+        "url": "https://html-classic.itch.zone/html/10282697/CC64_Apr22v2/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Retro Game Emulator",
+        "img": "https://t2conline.com/wp-content/uploads/2019/09/pasted-image-0.png",
+        "url": "https://www.webmulator.com/games",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Scrap Metal 3",
+        "img": "https://files.brightestgames.com/categories/image/2023/05/12/scrap-metal-games-online-650x500.jpg",
+        "url": "https://hypackel.github.io/projects/scrapmetal/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Bloons td 4",
+        "img": "https://gameforge.com/de-DE/littlegames/includes/images/games/13426_5ec634fec15e3.jpg",
+        "url": "https://ubg89.github.io/bloons-tower-defense-4-unblocked.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Bloons td 5",
+        "img": "https://data.gameflare.com/games/3550/JLCYTrjU9ZTVs5-400-300.jpg",
+        "url": "https://1000freegames.github.io/swf/bloons-tower-defense-5.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Bloxorz",
+        "img": "https://jpg.hoodamath.com/large/bloxorz_300x225.jpg",
+        "url": "https://ubg89.github.io/Bloxorz/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Curve Ball 3d",
+        "img": "https://www.coolmathgames.com/sites/default/files/CurveBall3D_OG-logo.jpg",
+        "url": "https://gswitch3.github.io/g/curve-ball-3d/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Playhop",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9_2OQtQ1Pobf2tBmkxFVNVKbPINr-HCa9A&s",
+        "url": "https://playhop.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Red Handed",
+        "img": "https://img.itch.zone/aW1nLzU0MjU2NzEuZ2lm/original/I6VtOo.gif",
+        "url": "https://html-classic.itch.zone/html/3872485/Red%20Handed%20v1.1%20(WEBGL)/index.html?v=1732313766",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Idle Breakout",
+        "img": "https://www.coolmathgames.com/sites/default/files/IdleBreakout_OG-logo.jpg",
+        "url": "https://unblocked-games.s3.amazonaws.com/games/2024/more/idle-breakout/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Hydro Storm 2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAu4-gRofmbG0PNd4I79TlsfDVXKRuSCstA&s",
+        "url": "https://bitlifeonline.github.io/hydro-storm-2/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Hanger",
+        "img": "https://assets.funnygames.org/5/113235/93785/336x189/hanger-online.webp",
+        "url": "https://ubg98.github.io/Hanger/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Dig Craft",
+        "img": "https://images.crazygames.com/dig-craft_16x9/20250318132209/dig-craft_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/dig-craft/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Funny Shooter 2",
+        "img": "https://img.gamepix.com/games/funny-shooter-2/cover/funny-shooter-2.png?w=400&ar=16:10",
+        "url": "https://games.crazygames.com/en_US/funny-shooter-2/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Gd Wave",
+        "img": "https://w8.snokido.com/img/large/space-waves.jpg",
+        "url": "https://games.crazygames.com/en_US/space-waves/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Gun Knight",
+        "img": "https://img.itch.zone/aW1nLzI3NDQ1OTguZ2lm/original/dm%2B0wt.gif",
+        "url": "https://html-classic.itch.zone/html/3524996/index.html?v=1732313781",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Inifinite Craft",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cover_art_of_Infinite_Craft%2C_Neal_Agarwal%2C_2024.svg/1200px-Cover_art_of_Infinite_Craft%2C_Neal_Agarwal%2C_2024.svg.png",
+        "url": "https://infinitecraft.net/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Johnny Upgrade",
+        "img": "https://www.coolmathgames.com/sites/default/files/JohnnyUpgrade_OG-logo.jpg",
+        "url": "https://mountain-game-games.github.io/johnnyupgrade.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Kilfur",
+        "img": "https://img.itch.zone/aW1nLzkzNTg1OTUucG5n/original/YnBfBz.png",
+        "url": "https://html-classic.itch.zone/html/6078076/index.html?v=1732313703",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "OvO",
+        "img": "https://www.coolmathgames.com/sites/default/files/OvO_OG-logo.jpg",
+        "url": "https://ovo-game.github.io/o/ovo/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Tunnel Rush",
+        "img": "https://tunnelrushgame.io/data/image/tunnel-rush.png",
+        "url": "https://tunnel-rush.gitlab.io/file/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Snow Ball. Io",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0tMC2SYRgxeBf8ivzTdC1PjTjSsXzFhB5A&s",
+        "url": "https://snowballio-online.github.io/file/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Smash Karts",
+        "img": "https://smash-karts.org/data/image/posts/smash-karts-banner2.jpg",
+        "url": "https://webgltest-17af1.firebaseapp.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Recommend Games",
+        "img": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTM1YmF0Y2gyLXF1ZXN0aW9uLTAyLnBuZw.png",
+        "url": "https://forms.gle/6MeAXLc6VJhCm1hN9",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Slither. io",
+        "img": "https://slither.io/s/fbthumb3.jpg",
+        "url": "https://scratch.mit.edu/projects/108566337/embed",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Plants VS Zombies",
+        "img": "https://watchdocumentaries.com/wp-content/uploads/plant-vs-zombies-game.jpg",
+        "url": "https://pvz.ee",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Rocket league",
+        "img": "https://gamepluto.com/thumbs/rocket-league-rocket-league.jpg",
+        "url": "https://rocket-soccer-derby.github.io/file/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Sort The Court",
+        "img": "https://img.itch.zone/aW1hZ2UvNDczNjcvMjA1ODYyLnBuZw==/original/Zb0%2FSF.png",
+        "url": "https://html-classic.itch.zone/html/347310/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Time Shooter",
+        "img": "https://imgs.crazygames.com/time-shooter-2_16x9/20241113040556/time-shooter-2_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/time-shooter/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "The Impossible Quiz",
+        "img": "https://lh3.googleusercontent.com/Tif4U-RB_oXiaWmSItkP4VNhtxle89pz8qvuEO9cMaV9JvbPmWdj4lycUgJo0EhM1BhLrnNR7T-K9TDvLQPjjk_7cA=s1280-w1280-h800",
+        "url": "https://gswitch3.github.io/g8/the-impossible-quiz/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Their Is No Game",
+        "img": "https://there-is-no-game.github.io/img/there-is-no-game.png",
+        "url": "https://there-is-no-game.github.io/a/there-is-no-game/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Tomb Of The Mask",
+        "img": "https://watchdocumentaries.com/wp-content/uploads/tomb-of-the-mask-game.jpg",
+        "url": "https://tomb-ofthe-mask.github.io/file/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Playground Man",
+        "img": "https://imgs.crazygames.com/ragdoll-break_16x9/20250311102953/ragdoll-break_16x9-cover?metadata=none&quality=85&width=216&height=120&fit=crop",
+        "url": "https://games.crazygames.com/en_US/ragdoll-break/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Pixel Gun 3d",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2524890/17ebfd78ecccfa00f5d49271c1680483b23e46c5/capsule_616x353.jpg?t=1741259429",
+        "url": "https://games.crazygames.com/en_US/pixel-gun-3d/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },

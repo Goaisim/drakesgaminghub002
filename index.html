@@ -37,7 +37,7 @@
       var FaviData = localStorage.getItem("Favi");
       console.log("Loaded title `" + TitleData + "` with icon `" + "/" + FaviData + "`");
       if (TitleData === null) {
-        document.title = "JustStudy";
+        document.title = "DrakesGamingHub2";
         document.querySelector("link[rel='shortcut icon']").href = '/assets/img/favicon.ico';
       }
       else {
@@ -70,7 +70,7 @@
           const currentTitle = localStorage.getItem("Title");
           if (urls[currentTitle]) {
               window.location.href = urls[currentTitle];
-          } else if (currentTitle === "JustStudy") {
+          } else if (currentTitle === "DrakesGamingHub2") {
               const obj_urls = Object.values(urls);
               window.location.href = obj_urls[Math.floor(Math.random() * obj_urls.length)];
           }
@@ -529,7 +529,7 @@ margin: 1.5rem 0;
           const welcomeToast = bootstrap.Toast.getOrCreateInstance(document.getElementById("welcomeToast"));
           TabCloak('JustStudy', 'assets/img/favicon.ico', 'JustStudy CE')
           localStorage.setItem("panickey", "Alt+`");
-          localStorage.setItem("Title", "JustStudy");
+          localStorage.setItem("Title", "DrakesGamingHub2");
           localStorage.setItem("Favi", "assets/img/favicon.ico`");
           welcomeToast.show()
         });

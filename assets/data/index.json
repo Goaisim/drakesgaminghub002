@@ -238,9 +238,9 @@
         "category": "Math Class"
     },
     {
-        "name": "Hill Climb Racing 2",
-        "img": "assets/icons/14.png",
-        "url": "studyguide/hcr2/index.html",
+        "name": "Hill Climb Racing",
+        "img": "https://lh3.googleusercontent.com/neK-LHSG-NGEiS75QsrpqzaJHFgwFcXoTOhvZwI1irAc9TUcNN0Obv7O6MAihC5SiE0Oml8PDC_5ZXNaKPKGqFNV=s1280-w1280-h800",
+        "url": "https://games.crazygames.com/en_US/hill-racing/index.html?v=1.327",
         "desc": "Conquer hills with crazy vehicles and upgrades.",
         "category": "Sports Club"
     },
@@ -1484,9 +1484,9 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Dig Craft",
-        "img": "https://images.crazygames.com/dig-craft_16x9/20250318132209/dig-craft_16x9-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/dig-craft/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
+        "name": "Sandbox city",
+        "img": "https://imgs.crazygames.com/sandbox-city---cars-zombies-ragdolls_16x9/20231204110852/sandbox-city---cars-zombies-ragdolls_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1641,6 +1641,97 @@
         "name": "Ye Tracker",
         "img": "https://imageio.forbes.com/specials-images/imageserve/5ed00f17d4a99d0006d2e738/0x0.jpg?format=jpg&crop=4666,4663,x154,y651,safe&height=416&width=416&fit=bounds",
         "url": "https://trackerhub.cx/sh/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Slime Rancher",
+        "img": "https://assetsio.gnwcdn.com/slime-rancher-is-the-latest-free-game-on-the-epic-store-1551989786636.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "url": "https://singleplayer.startmyeducation.net",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "A Difficult Game About Climbing",
+        "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497920/header.jpg?t=1715898008",
+        "url": "https://games.crazygames.com/en_US/hand-over-hand/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Ship Ramp Jumping",
+        "img": "https://images.crazygames.com/ship-ramp-jumping_16x9/20240423082015/ship-ramp-jumping_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/ship-ramp-jumping/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Dog Poo Golf",
+        "img": "https://vole.wtf/dog-poo-golf/social2.jpg",
+        "url": "https://vole.wtf/dog-poo-golf/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Rooftop Run",
+        "img": "https://images.crazygames.com/rooftop-run_16x9/20240415041518/rooftop-run_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/rooftop-run/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Cn Table Tennis",
+        "img": "https://i.ytimg.com/vi/miRGgIHOkVQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjLHfaI-rOE04FSNXwPK5yeUSqRg",
+        "url": "https://emea.iframed.cn.dmti.cloud/content/336/game/table-tennis-ultimate-tournament/uk/ultimatetabletennis-041218-en/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Texas Hold Em",
+        "img": "https://cdn.zone.msn.com/images/v9/en-us/game/thpk/thpk_640x345.png",
+        "url": "https://cdn.zone.msn.com/assets/games/thirdparty/arkadium/texasholdempoker/20220728T1045/default.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Destruction 3",
+        "img": "https://images.crazygames.com/stickman-destruction-3-heroes/20210311140018/stickman-destruction-3-heroes-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-destruction-3-heroes/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Block Wall Destroyer",
+        "img": "https://images.crazygames.com/games/block-wall-destroyer/cover_16x9-1741166303362.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/block-wall-destroyer/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "RPG Idle Clicker",
+        "img": "https://images.crazygames.com/rpg-idle-clicker-uzz_16x9/20250319111034/rpg-idle-clicker-uzz_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/rpg-idle-clicker-uzz/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stimulation Clicker",
+        "img": "https://dotesports.com/wp-content/uploads/2025/01/stimulting-clicker.jpg?w=1200",
+        "url": "https://nealfun.app/game/stimulation-clicker/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Build And Crush",
+        "img": "https://s3.amazonaws.com/culga-games-images/uploads/images/build-e-crush.jpg",
+        "url": "https://games.crazygames.com/en_US/build-and-crush/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Goober Dash",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2661160/ss_059ad20f6dcff528ccd2a43ea7fb89b02e99c8cc.1920x1080.jpg?t=1709148225",
+        "url": "https://games.crazygames.com/en_US/goober-dash/index.html?v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },

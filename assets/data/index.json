@@ -1827,6 +1827,48 @@
         "category": "Pen & Paper"
     },
     {
+        "name": "Fancade",
+        "img": "https://games.lol/wp-content/uploads/2022/05/fancade-pc-full-version.jpg",
+        "url": "https://play.fancade.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Roshambo",
+        "img": "https://i.ytimg.com/vi/nrltjQTPbOE/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDd3DDDrOlrntq0LNbzNuG8WoooPQ",
+        "url": "https://tazogogala27.github.io/roshambo/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Air Hockey",
+        "img": "https://img.itch.zone/aW1nLzMyMzE4NjEucG5n/original/%2FeNUrB.png",
+        "url": "https://www.calculators.org/games/airhockey/game.php",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Demo Derby",
+        "img": "https://imgs.crazygames.com/demolition-derby-3_16x9/20240702032215/demolition-derby-3_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/demolition-derby-3/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Pixel Smashers",
+        "img": "https://images.crazygames.com/pixel-smashers_16x9/20241003092336/pixel-smashers_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/pixel-smashers/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Roblox",
+        "img": "https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
+        "url": "https://doctoraux.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
         "name": "Riddle School 5",
         "img": "assets/icons/193.jpg",
         "url": "ruf.html?p=studyguide/rdsch5/file.swf",

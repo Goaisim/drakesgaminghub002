@@ -1869,6 +1869,202 @@
         "category": "Pen & Paper"
     },
     {
+        "name": "Ragdoll Soccer",
+        "img": "https://imgs.crazygames.com/ragdoll-soccer-2-players_16x9/20241209062336/ragdoll-soccer-2-players_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/ragdoll-soccer-2-players/index.html?v=1.327&utm_campaign=stickman-supreme-duelist-2",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "StickMan Epic",
+        "img": "https://imgs.crazygames.com/stickman-epic_16x9/20231002132142/stickman-epic_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://stickman-epic.game-files.crazygames.com/stickman-epic/1/index.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "No Pain No Gain",
+        "img": "https://images.crazygames.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/no-pain-no-gain---ragdoll-sandbox/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stick Epic Fighter",
+        "img": "https://images.crazygames.com/stick-epic-fighter_16x9/20241014054832/stick-epic-fighter_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://doctoraux.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman WW2",
+        "img": "https://images.crazygames.com/stickman-ww2/20220614142131/stickman-ww2-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-ww2/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Tower Defense 3d",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEw-6wFIv_87u2RDdsMU-9B5ey_4sL9yPUw&s",
+        "url": "https://games.crazygames.com/en_US/stickman-tower-defense-idle-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stick Fighter VS Zombies",
+        "img": "https://imgs.crazygames.com/stick-fighter-vs-zombies_16x9/20241212034038/stick-fighter-vs-zombies_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/stick-fighter-vs-zombies/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman King",
+        "img": "https://images.crazygames.com/stickman-king_16x9/20241217032120/stickman-king_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-king/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Turbo Dismounting",
+        "img": "https://imgs.crazygames.com/games/turbo-dismounting/cover-1655215651940.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/turbo-dismounting/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Mad Stick",
+        "img": "https://images.crazygames.com/mad-stick_16x9/20240527083335/mad-stick_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/mad-stick/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Office Fight",
+        "img": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/office-fight/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Fighting 3d",
+        "img": "https://imgs.crazygames.com/games/stickman-fighting-3d/thumb-1573276500924.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/stickman-fighting-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Rag Doll",
+        "img": "https://images.crazygames.com/games/rag-doll/cover-1636798447892.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/rag-doll/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Tennis 3d",
+        "img": "https://images.crazygames.com/games/stickman-tennis-3d/thumb-1574096469181.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-tennis-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Hyper Survive 3d",
+        "img": "https://imgs.crazygames.com/hyper-survive-3d_16x9/20250327094811/hyper-survive-3d_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/hyper-survive-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Portal 2d",
+        "img": "https://lh3.googleusercontent.com/NSy-9QWRRHrILlW02mY36UBhPPKwIE2TXTy8Na4sAlUVH_BaSm-LjTqE-Hmewg9zJilWb8yCo_Jf6rTVvWM5qO7X=s1280-w1280-h800",
+        "url": "https://games.crazygames.com/en_US/portal-2d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Beach Volleyball",
+        "img": "https://images.crazygames.com/stickman-beach-volleyball-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-beach-volleyball/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Super Thrower",
+        "img": "https://imgs.crazygames.com/super-thrower_16x9/20240828070001/super-thrower_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/super-thrower/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Go Kart Racing 3d",
+        "img": "https://imgs.crazygames.com/go-kart-racing-3d_16x9/20230926034449/go-kart-racing-3d_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/go-kart-racing-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Fighting: Super War",
+        "img": "https://imgs.crazygames.com/games/stickman-duelist-supreme-war/cover-1661272267849.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/stickman-duelist-supreme-war/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Zombie 3d",
+        "img": "https://images.crazygames.com/stickman-zombie-3d-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-zombie-3d/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Zombie: Motorcycle",
+        "img": "https://images.crazygames.com/stickman-zombie-motorcycle-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-zombie-motorcycle/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Rage",
+        "img": "https://imgs.crazygames.com/games/rage/cover-1614786119730.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/rage/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Granny",
+        "img": "https://play-lh.googleusercontent.com/WsUsst7uXYvpXzaL1XF7wRDpE1ZvF0XqRRgj0Dvti5VPRnHfFhQLuVKl2p2Zun-oyQ=w526-h296-rw",
+        "url": "https://gnhustgames.github.io/granny/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Draw Climber",
+        "img": "https://images.crazygames.com/draw-climber_16x9/20250327042947/draw-climber_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/draw-climber/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Burger And Frights",
+        "img": "https://img.itch.zone/aW1hZ2UvMTE2OTEzMS82ODEyNzI4LnBuZw==/original/5pcLGQ.png",
+        "url": "https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games6/burger-and-frights",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Doodle Jump",
+        "img": "https://i.ytimg.com/vi/2nFDEugTliM/maxresdefault.jpg",
+        "url": "https://webglmath.github.io/doodle-jump/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Table Tennis World Tour",
+        "img": "https://imgs.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://gnhustgames.github.io/tabletennis-worldtour/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
         "name": "Riddle School 5",
         "img": "assets/icons/193.jpg",
         "url": "ruf.html?p=studyguide/rdsch5/file.swf",

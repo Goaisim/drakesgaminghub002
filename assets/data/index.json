@@ -196,9 +196,9 @@
         "category": "Recess"
     },
     {
-        "name": "FNAF Classic",
+        "name": "FNAF 1",
         "img": "assets/icons/66.jpg",
-        "url": "studyguide/fn-af/index.html",
+        "url": "https://irv77.github.io/hd_fnaf/1/",
         "desc": "Survive 5 nights in the horror game that started them all",
         "category": "Pen & Paper"
     },
@@ -2061,6 +2061,90 @@
         "name": "Table Tennis World Tour",
         "img": "https://imgs.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://gnhustgames.github.io/tabletennis-worldtour/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Duck Hunt",
+        "img": "https://duckhuntjs.com",
+        "url": "https://duckhuntjs.com",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF World",
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/FNAFWorldlogo.jpg",
+        "url": "https://gamejolt.net/?token=LBbjKTmnUtmzEa786jN3ejLEFuHVDw",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF 2",
+        "img": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/73/FNAF_2_picture.png/revision/latest?cb=20141112195621",
+        "url": "https://irv77.github.io/hd_fnaf/2/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF 3",
+        "img": "https://m.media-amazon.com/images/I/71Pib7x9NbL.jpg",
+        "url": "https://irv77.github.io/hd_fnaf/3/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF 4",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg?t=1579635988",
+        "url": "https://irv77.github.io/hd_fnaf/4/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF Pizza Sim",
+        "img": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000021207/88dfc4877546db18eeff30dfa891bf7ba1bbfd4544f4304341fbeafbb51c9330",
+        "url": "https://irv77.github.io/hd_fnaf/ps/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "FNAF UCN",
+        "img": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/d7/UCN-header.jpg/revision/latest?cb=20180629213315",
+        "url": "https://irv77.github.io/hd_fnaf/ucn/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Gta",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi32jHQdE6aXACSVw0c3HHFFc45hHRWI1qazvlH7O7GFR5Vvqp4AFg7-u7us1pBycHEvnyvvepHhO-6sGNbcFyNNx9xM-rQb7-9ehjrcUI_rV4dNbN0zYu2zpdqdGwzmnqtefHmGPNGMKo/s1600/gta5.jpg",
+        "url": "https://gnhustgames.github.io/gta/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "No Time To Explain",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368730/header.jpg?t=1728654681",
+        "url": "https://flashmuseum.org/no-time-to-explain-remastered-demo/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Shark Io",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWVC6qIb17hHEck_WVQM-jePtMUkVh0NGLw&s",
+        "url": "https://tazogogala27.github.io/shark.io/",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Madness Project Nexus",
+        "img": "https://imgs.crazygames.com/games/madness-project-nexus/cover-1629361319148.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/madness-project-nexus/index.html?v=1.327",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Minecraft Tower Defense",
+        "img": "https://i.kinja-img.com/image/upload/c_fill,h_358,q_80,w_636/1a0e93bf8bc988d45b8020ea5d9d9fa2.jpg",
+        "url": "https://games.crazygames.com/en_US/minecraft-tower-defense/index.html?v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },

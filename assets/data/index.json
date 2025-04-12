@@ -2254,6 +2254,223 @@
         "category": "Pen & Paper"
     },
     {
+        "name": "Dig Craft",
+        "img": "https://images.crazygames.com/dig-craft_16x9/20250318132209/dig-craft_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/dig-craft/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Crazy MotoX Multiplayer",
+        "img": "https://images.crazygames.com/crazy-motox-multiplayer_16x9/20250409105719/crazy-motox-multiplayer_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/crazy-motox-multiplayer/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Defuse The Bomb 3D",
+        "img": "https://images.crazygames.com/defuse-the-bomb-3d/20211214171822/defuse-the-bomb-3d-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/defuse-the-bomb-3d/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "The Dumb Test",
+        "img": "https://imgs.crazygames.com/games/the-dumb-test/cover-1631822043185.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/the-dumb-test/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Fly For Fly",
+        "img": "https://imgs.crazygames.com/fly-for-fly/20221213071403/fly-for-fly-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/fly-for-fly/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Computer Repair",
+        "img": "https://imgs.crazygames.com/computer-repair/20220804184139/computer-repair-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/computer-repair/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "The Worlds Easyest Game",
+        "img": "https://imgs.crazygames.com/games/the-world-s-easyest-game/cover_16x9-1707126023817.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/the-world-s-easyest-game/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "The Unfair Platformer",
+        "img": "https://images.crazygames.com/games/the-unfair-platformer/cover-1638550719456.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/the-unfair-platformer/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Google Feud",
+        "img": "https://images.crazygames.com/games/google-feud/thumb-1557498552743.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/google-feud/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Opposite Day",
+        "img": "https://www.coolmathgames.com/sites/default/files/opposite-day-v2.png",
+        "url": "https://games.crazygames.com/en_US/opposite-day/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "The Game",
+        "img": "https://imgs.crazygames.com/games/the-game/cover-1635985724669.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/the-game/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Emoji Guess Master",
+        "img": "https://images.crazygames.com/emoji-guess-master_16x9/20240712042418/emoji-guess-master_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/emoji-guess-master/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Triva Crack",
+        "img": "https://imgs.crazygames.com/trivia-crack/20230313103519/trivia-crack-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/trivia-crack/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Dumb Ways To Die 2",
+        "img": "https://imgs.crazygames.com/dumb-ways-to-die-2-the-games/20230412105418/dumb-ways-to-die-2-the-games-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/dumb-ways-to-die-2-the-games/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Logo Quiz: Game World Trivia",
+        "img": "https://imgs.crazygames.com/logo-quiz-game-world-trivia_16x9/20240906023512/logo-quiz-game-world-trivia_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/logo-quiz-game-world-trivia/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "This Is The Only Level",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DM33CyUrSeI_1PEEoEdi7fgdXdT1_tOsng&s",
+        "url": "https://games.crazygames.com/en_US/this-is-the-only-level/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Alcatraz Prison Escape Plan",
+        "img": "https://images.crazygames.com/alcatraz-prison-escape-plan_16x9/20240520031530/alcatraz-prison-escape-plan_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/alcatraz-prison-escape-plan/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Cool Kingdom",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkpv8V-wfpaA3y_VODOS0jPxhNzfzPV3lWg&s",
+        "url": "https://games.crazygames.com/en_US/cool-kingdom/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Fall Words",
+        "img": "https://mn.game-game.com/gamesimg/251452.jpg",
+        "url": "https://games.crazygames.com/en_US/fall-words/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Unique Flavors",
+        "img": "https://imgs.crazygames.com/unique-flavors_16x9/20250403090344/unique-flavors_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/unique-flavors/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Tenkyu Ball",
+        "img": "https://images.crazygames.com/tenkyu-ball_16x9/20250402160714/tenkyu-ball_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/tenkyu-ball/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Cut In Half Please!",
+        "img": "https://imgs.crazygames.com/cut-in-half-please_16x9/20250408030449/cut-in-half-please_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/cut-in-half-please/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Murder Mafia",
+        "img": "https://imgs.crazygames.com/murder-mafia_16x9/20230915113149/murder-mafia_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/murder-mafia/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Teacher Simulator",
+        "img": "https://imgs.crazygames.com/teacher-simulator/20220907173822/teacher-simulator-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/teacher-simulator/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Doors Castle",
+        "img": "https://images.crazygames.com/doors-castle_16x9/20250408044736/doors-castle_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/doors-castle/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "SBallon",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg33KCy-0qfqJgCTlmvauq-btqZgfHdwbjZg&s",
+        "url": "https://games.crazygames.com/en_US/sbaloon/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Hexa Block 2048 Idle",
+        "img": "https://images.crazygames.com/hexa-block-2048-idle_16x9/20250411034004/hexa-block-2048-idle_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/hexa-block-2048-idle/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Super Slime",
+        "img": "https://images.crazygames.com/super-slime-mqf_16x9/20250403064250/super-slime-mqf_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/super-slime-mqf/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Mad Royale Tactics",
+        "img": "https://images.crazygames.com/mad-royale-tactics_16x9/20250402162039/mad-royale-tactics_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/mad-royale-tactics/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Traffic Rider",
+        "img": "https://images.crazygames.com/traffic-rider-vvq_16x9/20250328101418/traffic-rider-vvq_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/traffic-rider-vvq/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Super Bike The Champion",
+        "img": "https://i.ytimg.com/vi/AEIKxVzpP1I/maxresdefault.jpg",
+        "url": "https://games.crazygames.com/en_US/super-bike-the-champion/index.html?v=1.328",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
         "name": "Riddle School 5",
         "img": "assets/icons/193.jpg",
         "url": "ruf.html?p=studyguide/rdsch5/file.swf",

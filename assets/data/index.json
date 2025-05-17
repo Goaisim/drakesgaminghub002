@@ -2688,6 +2688,13 @@
         "category": "Pen & Paper"
     },
     {
+        "name": "Troll",
+        "img": "https://i.ebayimg.com/images/g/EQ8AAOSwlNFmdai2/s-l1200.png",
+        "url": "assets/data/Troll.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
         "name": "Riddle School 5",
         "img": "assets/icons/193.jpg",
         "url": "ruf.html?p=studyguide/rdsch5/file.swf",

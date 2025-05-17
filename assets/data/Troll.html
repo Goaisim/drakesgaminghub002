@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You Are An Idiot!</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: "Comic Sans MS", Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+      text-align: center;
+      animation: flash 0.8s steps(2, end) infinite;
+    }
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+    }
+    .emoji {
+      font-size: 5rem;
+      animation: spin 3s linear infinite;
+    }
+    @keyframes flash {
+      0%   { background-color: black; }
+      50%  { background-color: #5500ff; }
+      100% { background-color: black; }
+    }
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+    audio { display: none; }
+  </style>
+  <script>
+    // Limited, safe pop‑up recreation
+    function openPopups() {
+      const pops = 5; // change for more / fewer pop‑ups
+      for (let i = 0; i < pops; i++) {
+        const w = 400, h = 300;
+        const left = Math.random() * (screen.width  - w);
+        const top  = Math.random() * (screen.height - h);
+        const opts = `width=${w},height=${h},left=${left},top=${top}`;
+        const win  = window.open('', 'idiot' + i, opts);
+        // If the browser allows the pop‑up, clone this page inside it
+        if (win) {
+          win.document.write(document.documentElement.outerHTML);
+          win.document.close();
+        }
+      }
+    }
+    window.addEventListener('load', openPopups);
+  </script>
+</head>
+<body>
+  <h1>You Are An Idiot!</h1>
+  <div class="emoji">😂 😂 😂</div>
+  <audio autoplay loop>
+    <source src="https://archive.org/download/you-are-an-idiot/you%20are%20an%20idiot.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</body>
+</html>

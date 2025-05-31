@@ -2690,7 +2690,112 @@
     {
         "name": "Troll",
         "img": "https://i.ebayimg.com/images/g/EQ8AAOSwlNFmdai2/s-l1200.png",
-        "url": "assets/data/Troll.html",
+        "url": "thegeekboiz.github.io/PythonScratcher/youareanidiot/lol.html",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Peggle Blast HD",
+        "img": "https://www.badgehungry.com/wp-content/uploads/2022/12/peggleblastlogo.webp",
+        "url": "https://cdn-h5copperhead-prod.pogospike.com/136/index.html?",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Rolling Balls Space Race",
+        "img": "https://images.crazygames.com/rolling-balls-space-race_16x9/20250529025229/rolling-balls-space-race_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/rolling-balls-space-race/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Evolution Factor",
+        "img": "https://images.crazygames.com/evolution-factor-1_16x9/20250528055553/evolution-factor-1_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/evolution-factor-1/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Click To Grill",
+        "img": "https://images.crazygames.com/click-to-grill_16x9/20250528044730/click-to-grill_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/click-to-grill/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Weapons Ragdoll Arena",
+        "img": "https://imgs.crazygames.com/weapons-ragdoll-arena_16x9/20250523065035/weapons-ragdoll-arena_16x9-cover?metadata=none&quality=40&width=216&height=120&fit=crop",
+        "url": "https://games.crazygames.com/en_US/weapons-ragdoll-arena/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Block Build Destroyer",
+        "img": "https://images.crazygames.com/block-build-destroyer_16x9/20250516070325/block-build-destroyer_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/block-build-destroyer/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Leap And Avoid 2",
+        "img": "https://game-game.com/gamesimg/265126.jpg",
+        "url": "https://games.crazygames.com/en_US/leap-and-avoid-2/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Grass Land",
+        "img": "https://images.crazygames.com/grass-land-cei_16x9/20250512053720/grass-land-cei_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/grass-land-cei/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Gokarts.io",
+        "img": "https://images.crazygames.com/gokarts-io_16x9/20250513021946/gokarts-io_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/gokarts-io/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Cut In Half",
+        "img": "https://imgs.crazygames.com/cut-in-half_16x9/20250526044518/cut-in-half_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "url": "https://games.crazygames.com/en_US/cut-in-half/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Boxing 3D",
+        "img": "https://images.crazygames.com/boxing-3d_16x9/20250516041920/boxing-3d_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/boxing-3d/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Stickman Clash",
+        "img": "https://images.crazygames.com/games/stickman-clash/cover_16x9-1746127524433.png?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/stickman-clash/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Troll 2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JkGJZ7cShdIEn6FDY69fq7eWPj6pcKWyCA&s",
+        "url": "ptoszek.pl",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Surf",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlWSFyYllSxoC86yS1mjd6pwJwmESypdLnQ&s",
+        "url": "https://games.crazygames.com/en_US/surf/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
+        "desc": "idk",
+        "category": "Pen & Paper"
+    },
+    {
+        "name": "Golf Orbit",
+        "img": "https://images.crazygames.com/golf-orbit_16x9/20240620070701/golf-orbit_16x9-cover?auto=format,compress&q=75&cs=strip",
+        "url": "https://games.crazygames.com/en_US/golf-orbit/index.html?v=1.332",
         "desc": "idk",
         "category": "Pen & Paper"
     },

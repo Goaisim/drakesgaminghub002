@@ -7,13 +7,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "1v1 LoL",
-        "img": "assets/icons/2.png",
-        "url": "studyguide/1vl/index.html",
-        "desc": "Battle your friends in this intense multiplayer shooter.",
-        "category": "Gym Class"
-    },
-    {
         "name": "2048",
         "img": "assets/icons/3.png",
         "url": "studyguide/2048/index.html",
@@ -33,13 +26,6 @@
         "url": "studyguide/adofai/index.html",
         "desc": "Test your rhythm in this one-button music challenge.",
         "category": "Music Room"
-    },
-    {
-        "name": "Backfire",
-        "img": "assets/icons/5.png",
-        "url": "studyguide/backfire/index.html",
-        "desc": "Dodge and shoot in this reverse bullet-hell game.",
-        "category": "Gym Class"
     },
     {
         "name": "Basketball Bros",
@@ -123,13 +109,6 @@
         "img": "assets/icons/76.png",
         "url": "studyguide/d-d/index.html",
         "desc": "Guide a radish dad to save his lost kids.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Dante",
-        "img": "assets/icons/10.png",
-        "url": "studyguide/dante/index.html",
-        "desc": "Dive into an action-packed journey with this platformer.",
         "category": "Gym Class"
     },
     {
@@ -221,13 +200,6 @@
         "img": "assets/icons/56.png",
         "url": "studyguide/gdr/index.html",
         "desc": "An upgraded version of the iconic rhythm platformer.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Getaway Shootout",
-        "img": "assets/icons/13.png",
-        "url": "studyguide/ga-s/index.html",
-        "desc": "Race and shoot your way to freedom!",
         "category": "Gym Class"
     },
     {
@@ -357,31 +329,10 @@
         "category": "Gym Class"
     },
     {
-        "name": "Quake",
-        "img": "assets/icons/59.jpg",
-        "url": "studyguide/quake/index.html",
-        "desc": "Classic first-person shooter with intense combat action.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Raft Wars",
-        "img": "assets/icons/70.png",
-        "url": "studyguide/r-w/index.html",
-        "desc": "Defend your treasure from pirates with hilarious battles.",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Retro Bowl",
         "img": "assets/icons/36.jpg",
         "url": "studyguide/r-b/index.html",
         "desc": "Lead your team to victory in this retro football game.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Rooftop Snipers",
-        "img": "assets/icons/53.png",
-        "url": "studyguide/r-s/index.html",
-        "desc": "Take down opponents in rooftop duels.",
         "category": "Gym Class"
     },
     {
@@ -693,27 +644,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Rooftop Snipers 2",
-        "img": "assets/icons/102.jpg",
-        "url": "studyguide/rts-2/index.html",
-        "desc": "Challenge your friends in intense rooftop duels.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Burrito Bison: Launcha Libre",
-        "img": "assets/icons/103.jpg",
-        "url": "studyguide/bb-ll/index.html",
-        "desc": "Launch Burrito Bison to stop an evil gummy invasion.",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Burrito Bison Revenge",
-        "img": "assets/icons/104.webp",
-        "url": "studyguide/bb-r/index.html",
-        "desc": "Bounce back and fight off gummy bears in style.",
-        "category": "Gym Class"
-    },
-    {
         "name": "GrindCraft",
         "img": "assets/icons/106.jpg",
         "url": "studyguide/gc/index.html",
@@ -784,13 +714,6 @@
         "category": "Sports Club"
     },
     {
-        "name": "Gun Mayhem Redux",
-        "img": "assets/icons/117.png",
-        "url": "studyguide/gmr/index.html",
-        "desc": "Shoot, jump, and dominate your opponents in chaos.",
-        "category": "Gym Class"
-    },
-    {
         "name": "Tag",
         "img": "assets/icons/118.webp",
         "url": "studyguide/t/index.html",
@@ -833,13 +756,6 @@
         "category": "Music Room"
     },
     {
-        "name": "10 Minutes Before Dawn",
-        "img": "assets/icons/125.png",
-        "url": "studyguide/10mbd/index.html",
-        "desc": "Survive waves of enemies before dawn arrives.",
-        "category": "Gym Class"
-    },
-    {
         "name": "Drift Hunters",
         "img": "assets/icons/126.avif",
         "url": "studyguide/db-c/index.html",
@@ -880,13 +796,6 @@
         "url": "studyguide/bttc/index.html",
         "desc": "Climb a big tower as a tiny cube in this platformer.",
         "category": "Gym Class"
-    },
-    {
-        "name": "BitLife",
-        "img": "assets/icons/133.jpg",
-        "url": "studyguide/btlf/index.html",
-        "desc": "Live out a simulated life with endless choices.",
-        "category": "Science Lab"
     },
     {
         "name": "Pizza Tower",
@@ -987,13 +896,6 @@
         "category": "Gym Class"
     },
     {
-        "name": "CS:GO Clicker",
-        "img": "assets/icons/148.jpeg",
-        "url": "studyguide/cgc/index.html",
-        "desc": "Addictive clicker based on the popular shooter CS:GO.",
-        "category": "Recess"
-    },
-    {
         "name": "Sling Kong",
         "img": "assets/icons/150.png",
         "url": "studyguide/sk/index.html",
@@ -1019,13 +921,6 @@
         "img": "assets/icons/153.png",
         "url": "studyguide/dl-d/index.html",
         "desc": "If dadish had a new level every day!",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Ragdoll Archers",
-        "img": "assets/icons/154.png",
-        "url": "studyguide/r-a/index.html",
-        "desc": "Shoot endless waves of ragdolls and upgrade your gear.",
         "category": "Gym Class"
     },
     {
@@ -1064,20 +959,6 @@
         "category": "Science Lab"
     },
     {
-        "name": "Total Party Kill",
-        "img": "assets/icons/160.png",
-        "url": "studyguide/tpk/index.html",
-        "desc": "Eliminate your allies to get to the end!",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "GladiHoppers",
-        "img": "assets/icons/161.png",
-        "url": "studyguide/gh/index.html",
-        "desc": "Hop and fight gladiator style",
-        "category": "Science Lab"
-    },
-    {
         "name": "Level Devil",
         "img": "assets/icons/162.png",
         "url": "studyguide/l-d/index.html",
@@ -1092,20 +973,6 @@
         "category": "Sports Club"
     },
     {
-        "name": "Gun Spin",
-        "img": "assets/icons/164.png",
-        "url": "studyguide/gsp/index.html",
-        "desc": "Shoot your gun to get as far as possible!",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Ragdoll Hit",
-        "img": "assets/icons/165.png",
-        "url": "studyguide/rg-h/index.html",
-        "desc": "Fight onslaugh of enemys or 1v1 with your friends in this 2d ragdoll fighter!",
-        "category": "Gym Class"
-    },
-    {
         "name": "Sand Tetris",
         "img": "assets/icons/166.png",
         "url": "studyguide/str/index.html",
@@ -1117,13 +984,6 @@
         "img": "assets/icons/167.png",
         "url": "studyguide/dll/index.html",
         "desc": "Try not to fall as you try to balance your self in this cute walking game",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Johnny Upgrade",
-        "img": "assets/icons/168.png",
-        "url": "studyguide/j-u/index.html",
-        "desc": "you start weak and unlock abilities like jumping and running through upgrades. Collect coins, power up, and defeat the boss!",
         "category": "Gym Class"
     },
     {
@@ -1218,20 +1078,6 @@
         "category": "Recess"
     },
     {
-        "name": "Bad Egg",
-        "img": "assets/icons/183.png",
-        "url": "studyguide/bdgg/index.html",
-        "desc": "Fight off waves of chicken and survive untill the end!",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Build Now",
-        "img": "assets/icons/184.png",
-        "url": "studyguide/bngg/index.html",
-        "desc": "Fight and Build in this intense and fun shooting game!",
-        "category": "Gym Class"
-    },
-    {
         "name": "Super market simulator",
         "img": "assets/icons/185.png",
         "url": "studyguide/ss-sm/index.html",
@@ -1251,13 +1097,6 @@
         "url": "studyguide/jyrd/index.html",
         "desc": "Drive a motorbike up crazy terrain to show your skills!",
         "category": "Sports Club"
-    },
-    {
-        "name": "Casino Collection NOT WORKING",
-        "img": "assets/icons/188.png",
-        "url": "studyguide/c3-1/index.html",
-        "desc": "Play a collection of 3 classic casino games!",
-        "category": "Recess"
     },
     {
         "name": "Super Mario 64",
@@ -1285,20 +1124,6 @@
         "img": "assets/icons/191.png",
         "url": "studyguide/orou/index.html",
         "desc": "Obby Parkour Game",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Super Fighters",
-        "img": "assets/icons/199.png",
-        "url": "studyguide/sf/index.html",
-        "desc": "Fight with your friends or against a computer in this fun 2d game!",
-        "category": "Gym Class"
-    },
-    {
-        "name": "Blocops",
-        "img": "assets/icons/200.png",
-        "url": "studyguide/blcp/index.html",
-        "desc": "Ravenfield type game, got lazy here XD",
         "category": "Gym Class"
     },
     {
@@ -1365,13 +1190,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Shell Shockers",
-        "img": "https://rocketgames.imgix.net/uploads/games/s/shell-shockers/shell-shockers.jpg",
-        "url": "https://orcatech2711.github.io/nano/games/shellshockers/index.html",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Minecraft",
         "img": "https://www.pluggedin.com/wp-content/uploads/2020/01/minecraft-review-image-1024x587.jpg",
         "url": "https://eaglercraft.com/mc/1.12.2-wasm/",
@@ -1389,13 +1207,6 @@
         "name": "Super Auto Pets",
         "img": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1714040/capsule_616x353.jpg?t=1680944541",
         "url": "https://html-classic.itch.zone/html/12710809/Production%20WebGL/index.html",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Happy Room",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550010/capsule_616x353.jpg?t=1647542460",
-        "url": "https://unblockedgames76.gitlab.io/happy-room/",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1449,20 +1260,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Playhop",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9_2OQtQ1Pobf2tBmkxFVNVKbPINr-HCa9A&s",
-        "url": "https://playhop.com",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Red Handed",
-        "img": "https://img.itch.zone/aW1nLzU0MjU2NzEuZ2lm/original/I6VtOo.gif",
-        "url": "https://unblockedgames76.gitlab.io/red-handed/",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Idle Breakout",
         "img": "https://www.coolmathgames.com/sites/default/files/IdleBreakout_OG-logo.jpg",
         "url": "https://idle-breakout.github.io/games/idle-breakout/index.html",
@@ -1484,20 +1281,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Sandbox city",
-        "img": "https://imgs.crazygames.com/sandbox-city---cars-zombies-ragdolls_16x9/20231204110852/sandbox-city---cars-zombies-ragdolls_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Funny Shooter 2",
-        "img": "https://img.gamepix.com/games/funny-shooter-2/cover/funny-shooter-2.png?w=400&ar=16:10",
-        "url": "https://games.crazygames.com/en_US/funny-shooter-2/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Gd Wave",
         "img": "https://w8.snokido.com/img/large/space-waves.jpg",
         "url": "https://games.crazygames.com/en_US/space-waves/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
@@ -1505,23 +1288,9 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Gun Knight",
-        "img": "https://img.itch.zone/aW1nLzI3NDQ1OTguZ2lm/original/dm%2B0wt.gif",
-        "url": "https://gamejolt.net/?token=6XoLtHvVBv54z5RvFmHJo7YaPLyLRh",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Inifinite Craft",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cover_art_of_Infinite_Craft%2C_Neal_Agarwal%2C_2024.svg/1200px-Cover_art_of_Infinite_Craft%2C_Neal_Agarwal%2C_2024.svg.png",
         "url": "https://infinitecraft.net/",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Johnny Upgrade",
-        "img": "https://www.coolmathgames.com/sites/default/files/JohnnyUpgrade_OG-logo.jpg",
-        "url": "https://mountain-game-games.github.io/johnnyupgrade.html",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1550,13 +1319,6 @@
         "name": "Snow Ball. Io",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0tMC2SYRgxeBf8ivzTdC1PjTjSsXzFhB5A&s",
         "url": "https://snowballio-online.github.io/file/",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Smash Karts",
-        "img": "https://smash-karts.org/data/image/posts/smash-karts-banner2.jpg",
-        "url": "https://webgltest-17af1.firebaseapp.com",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1596,13 +1358,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Time Shooter",
-        "img": "https://imgs.crazygames.com/time-shooter-2_16x9/20241113040556/time-shooter-2_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/time-shooter/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "The Impossible Quiz",
         "img": "https://lh3.googleusercontent.com/Tif4U-RB_oXiaWmSItkP4VNhtxle89pz8qvuEO9cMaV9JvbPmWdj4lycUgJo0EhM1BhLrnNR7T-K9TDvLQPjjk_7cA=s1280-w1280-h800",
         "url": "https://gswitch3.github.io/g8/the-impossible-quiz/",
@@ -1634,13 +1389,6 @@
         "name": "Pixel Gun 3d",
         "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2524890/17ebfd78ecccfa00f5d49271c1680483b23e46c5/capsule_616x353.jpg?t=1741259429",
         "url": "https://games.crazygames.com/en_US/pixel-gun-3d/index.html?skipPrerollFirstSessionExp25=true&v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Ye Tracker",
-        "img": "https://imageio.forbes.com/specials-images/imageserve/5ed00f17d4a99d0006d2e738/0x0.jpg?format=jpg&crop=4666,4663,x154,y651,safe&height=416&width=416&fit=bounds",
-        "url": "https://trackerhub.cx/sh/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1694,13 +1442,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Stickman Destruction 3",
-        "img": "https://images.crazygames.com/stickman-destruction-3-heroes/20210311140018/stickman-destruction-3-heroes-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/stickman-destruction-3-heroes/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Block Wall Destroyer",
         "img": "https://images.crazygames.com/games/block-wall-destroyer/cover_16x9-1741166303362.png?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/block-wall-destroyer/index.html?v=1.327",
@@ -1743,13 +1484,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Squid Game",
-        "img": "https://images.crazygames.com/squid-game-online/20211109123635/squid-game-online-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/squid-game-online/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "WorldGuessr",
         "img": "https://images.crazygames.com/worldguessr_16x9/20241018082520/worldguessr_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/worldguessr/index.html?v=1.327",
@@ -1764,7 +1498,7 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Plannet Smash Destruction",
+        "name": "Planet Smash Destruction",
         "img": "https://imgs.crazygames.com/solar-smash_16x9/20240722073047/solar-smash_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://games.crazygames.com/en_US/solar-smash/index.html?v=1.327",
         "desc": "idk",
@@ -1820,20 +1554,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Drunken Boxing",
-        "img": "https://w8.snokido.com/img/large/drunken-boxing-2.jpg",
-        "url": "https://games.crazygames.com/en_US/drunken-boxers/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Fancade",
-        "img": "https://games.lol/wp-content/uploads/2022/05/fancade-pc-full-version.jpg",
-        "url": "https://play.fancade.com",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Roshambo",
         "img": "https://i.ytimg.com/vi/nrltjQTPbOE/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDd3DDDrOlrntq0LNbzNuG8WoooPQ",
         "url": "https://tazogogala27.github.io/roshambo/",
@@ -1862,13 +1582,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Roblox",
-        "img": "https://images.rbxcdn.com/d66ae37d46e00a1ecacfe9531986690a.jpg",
-        "url": "https://doctoraux.com",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Ragdoll Soccer",
         "img": "https://imgs.crazygames.com/ragdoll-soccer-2-players_16x9/20241209062336/ragdoll-soccer-2-players_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://games.crazygames.com/en_US/ragdoll-soccer-2-players/index.html?v=1.327&utm_campaign=stickman-supreme-duelist-2",
@@ -1876,30 +1589,9 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "StickMan Epic",
-        "img": "https://imgs.crazygames.com/stickman-epic_16x9/20231002132142/stickman-epic_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://stickman-epic.game-files.crazygames.com/stickman-epic/1/index.html",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "No Pain No Gain",
         "img": "https://images.crazygames.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/no-pain-no-gain---ragdoll-sandbox/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Stick Epic Fighter",
-        "img": "https://images.crazygames.com/stick-epic-fighter_16x9/20241014054832/stick-epic-fighter_16x9-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://doctoraux.com",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Stickman WW2",
-        "img": "https://images.crazygames.com/stickman-ww2/20220614142131/stickman-ww2-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/stickman-ww2/index.html?v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -1932,13 +1624,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Mad Stick",
-        "img": "https://images.crazygames.com/mad-stick_16x9/20240527083335/mad-stick_16x9-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/mad-stick/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Office Fight",
         "img": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/office-fight/index.html?v=1.327",
@@ -1946,30 +1631,9 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Stickman Fighting 3d",
-        "img": "https://imgs.crazygames.com/games/stickman-fighting-3d/thumb-1573276500924.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/stickman-fighting-3d/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Rag Doll",
-        "img": "https://images.crazygames.com/games/rag-doll/cover-1636798447892.png?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/rag-doll/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Stickman Tennis 3d",
         "img": "https://images.crazygames.com/games/stickman-tennis-3d/thumb-1574096469181.png?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/stickman-tennis-3d/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Hyper Survive 3d",
-        "img": "https://imgs.crazygames.com/hyper-survive-3d_16x9/20250327094811/hyper-survive-3d_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/hyper-survive-3d/index.html?v=1.327",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2009,27 +1673,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Stickman Zombie 3d",
-        "img": "https://images.crazygames.com/stickman-zombie-3d-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/stickman-zombie-3d/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Stickman Zombie: Motorcycle",
-        "img": "https://images.crazygames.com/stickman-zombie-motorcycle-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/stickman-zombie-motorcycle/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Rage",
-        "img": "https://imgs.crazygames.com/games/rage/cover-1614786119730.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/rage/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Granny",
         "img": "https://play-lh.googleusercontent.com/WsUsst7uXYvpXzaL1XF7wRDpE1ZvF0XqRRgj0Dvti5VPRnHfFhQLuVKl2p2Zun-oyQ=w526-h296-rw",
         "url": "https://gnhustgames.github.io/granny/",
@@ -2061,13 +1704,6 @@
         "name": "Table Tennis World Tour",
         "img": "https://imgs.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://gnhustgames.github.io/tabletennis-worldtour/",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Duck Hunt",
-        "img": "https://duckhuntjs.com",
-        "url": "https://duckhuntjs.com",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2114,13 +1750,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Gta",
-        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi32jHQdE6aXACSVw0c3HHFFc45hHRWI1qazvlH7O7GFR5Vvqp4AFg7-u7us1pBycHEvnyvvepHhO-6sGNbcFyNNx9xM-rQb7-9ehjrcUI_rV4dNbN0zYu2zpdqdGwzmnqtefHmGPNGMKo/s1600/gta5.jpg",
-        "url": "https://gnhustgames.github.io/gta/",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "No Time To Explain",
         "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368730/header.jpg?t=1728654681",
         "url": "https://flashmuseum.org/no-time-to-explain-remastered-demo/",
@@ -2135,13 +1764,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Madness Project Nexus",
-        "img": "https://imgs.crazygames.com/games/madness-project-nexus/cover-1629361319148.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/madness-project-nexus/index.html?v=1.327",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Minecraft Tower Defense",
         "img": "https://i.kinja-img.com/image/upload/c_fill,h_358,q_80,w_636/1a0e93bf8bc988d45b8020ea5d9d9fa2.jpg",
         "url": "https://games.crazygames.com/en_US/minecraft-tower-defense/index.html?v=1.327",
@@ -2152,13 +1774,6 @@
         "name": "Stickman Clash",
         "img": "https://imgs.crazygames.com/stickman-clash_16x9/20250221023221/stickman-clash_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://games.crazygames.com/en_US/stickman-clash/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Playground",
-        "img": "https://imgs.crazygames.com/playground_16x9/20250311120048/playground_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/playground/index.html?v=1.328",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2187,13 +1802,6 @@
         "name": "Haunted School",
         "img": "https://images.crazygames.com/games/haunted-school---horror-game/cover-1657021606968.png?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/haunted-school---horror-game/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Murder",
-        "img": "https://imgs.crazygames.com/games/murder/cover-1636453632912.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/murder/index.html?v=1.328",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2247,13 +1855,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Punchers",
-        "img": "https://imgs.crazygames.com/punchers_16x9/20241223161057/punchers_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/punchers/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Dig Craft",
         "img": "https://images.crazygames.com/dig-craft_16x9/20250318132209/dig-craft_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/dig-craft/index.html?v=1.328",
@@ -2264,13 +1865,6 @@
         "name": "Crazy MotoX Multiplayer",
         "img": "https://images.crazygames.com/crazy-motox-multiplayer_16x9/20250409105719/crazy-motox-multiplayer_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/crazy-motox-multiplayer/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Defuse The Bomb 3D",
-        "img": "https://images.crazygames.com/defuse-the-bomb-3d/20211214171822/defuse-the-bomb-3d-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/defuse-the-bomb-3d/index.html?v=1.328",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2345,13 +1939,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Dumb Ways To Die 2",
-        "img": "https://imgs.crazygames.com/dumb-ways-to-die-2-the-games/20230412105418/dumb-ways-to-die-2-the-games-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/dumb-ways-to-die-2-the-games/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Logo Quiz: Game World Trivia",
         "img": "https://imgs.crazygames.com/logo-quiz-game-world-trivia_16x9/20240906023512/logo-quiz-game-world-trivia_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://games.crazygames.com/en_US/logo-quiz-game-world-trivia/index.html?v=1.328",
@@ -2362,13 +1949,6 @@
         "name": "This Is The Only Level",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DM33CyUrSeI_1PEEoEdi7fgdXdT1_tOsng&s",
         "url": "https://games.crazygames.com/en_US/this-is-the-only-level/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Alcatraz Prison Escape Plan",
-        "img": "https://images.crazygames.com/alcatraz-prison-escape-plan_16x9/20240520031530/alcatraz-prison-escape-plan_16x9-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/alcatraz-prison-escape-plan/index.html?v=1.328",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2404,13 +1984,6 @@
         "name": "Cut In Half Please!",
         "img": "https://imgs.crazygames.com/cut-in-half-please_16x9/20250408030449/cut-in-half-please_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "https://games.crazygames.com/en_US/cut-in-half-please/index.html?v=1.328",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Murder Mafia",
-        "img": "https://imgs.crazygames.com/murder-mafia_16x9/20230915113149/murder-mafia_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/murder-mafia/index.html?v=1.328",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2471,7 +2044,7 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "CrazyCattle3d (No Virus Ads)",
+        "name": "CrazyCattle3d (No Virus Ads, Made by Me)",
         "img": "https://img.itch.zone/aW1nLzIwNjg0MzI4LnBuZw==/original/vEMX1y.png",
         "url": "https://idev.games/embed/crazycattle3d",
         "desc": "idk",
@@ -2502,13 +2075,6 @@
         "name": "Flight Sim",
         "img": "https://play-lh.googleusercontent.com/hTXtmSXfUgOQKNSSFfxFBpJCijgxbkeDUYa5CV9uDA-w-p7c3kCzAfmDcW9Dz0LmEg=w526-h296-rw",
         "url": "https://www.geo-fs.com/geofs.php?v=3.9",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Need For Madness",
-        "img": "https://imgs.crazygames.com/need-for-madness_16x9/20250416072002/need-for-madness_16x9-cover?metadata=none&quality=40&width=1200&height=630&fit=crop",
-        "url": "https://games.crazygames.com/en_US/need-for-madness/index.html?skipPrerollFirstSessionExp25=&v=1.330",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2611,13 +2177,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Rodha",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDd9rt-tfqJBRXD1ynBHm0u4eWA-RwOf3Wmw&s",
-        "url": "https://games.crazygames.com/en_US/rodha/index.html?skipPrerollFirstSessionExp25=&v=1.330",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Planetary Terraformer",
         "img": "https://external-preview.redd.it/planetary-terraformer-play-on-crazygames-v0-rCXvlCfPWIW3hq3cuictZeXz667ue7Gld8-BTRWgwMk.jpg?width=640&crop=smart&auto=webp&s=ca4bbf9508566d3a05606cc0dec7ac699da6e8b2",
         "url": "https://games.crazygames.com/en_US/planetary-terraformer/index.html?skipPrerollFirstSessionExp25=&v=1.330",
@@ -2688,7 +2247,7 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Troll",
+        "name": "Prank",
         "img": "https://i.ebayimg.com/images/g/EQ8AAOSwlNFmdai2/s-l1200.png",
         "url": "thegeekboiz.github.io/PythonScratcher/youareanidiot/lol.html",
         "desc": "idk",
@@ -2719,13 +2278,6 @@
         "name": "Click To Grill",
         "img": "https://images.crazygames.com/click-to-grill_16x9/20250528044730/click-to-grill_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/click-to-grill/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Weapons Ragdoll Arena",
-        "img": "https://imgs.crazygames.com/weapons-ragdoll-arena_16x9/20250523065035/weapons-ragdoll-arena_16x9-cover?metadata=none&quality=40&width=216&height=120&fit=crop",
-        "url": "https://games.crazygames.com/en_US/weapons-ragdoll-arena/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
         "desc": "idk",
         "category": "Pen & Paper"
     },
@@ -2765,34 +2317,6 @@
         "category": "Pen & Paper"
     },
     {
-        "name": "Boxing 3D",
-        "img": "https://images.crazygames.com/boxing-3d_16x9/20250516041920/boxing-3d_16x9-cover?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/boxing-3d/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Stickman Clash",
-        "img": "https://images.crazygames.com/games/stickman-clash/cover_16x9-1746127524433.png?auto=format,compress&q=75&cs=strip",
-        "url": "https://games.crazygames.com/en_US/stickman-clash/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Troll 2",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JkGJZ7cShdIEn6FDY69fq7eWPj6pcKWyCA&s",
-        "url": "ptoszek.pl",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
-        "name": "Surf",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlWSFyYllSxoC86yS1mjd6pwJwmESypdLnQ&s",
-        "url": "https://games.crazygames.com/en_US/surf/index.html?czyDynamicPriceFloorVariantsCZY_14537=portal&czyEPBPooling_CZY_14716=enabled&enableAdmiral=0&ssrDevice=desktop&v=1.332",
-        "desc": "idk",
-        "category": "Pen & Paper"
-    },
-    {
         "name": "Golf Orbit",
         "img": "https://images.crazygames.com/golf-orbit_16x9/20240620070701/golf-orbit_16x9-cover?auto=format,compress&q=75&cs=strip",
         "url": "https://games.crazygames.com/en_US/golf-orbit/index.html?v=1.332",
@@ -2807,3 +2331,4 @@
         "category": "Science Lab"
     }
 ]
+
